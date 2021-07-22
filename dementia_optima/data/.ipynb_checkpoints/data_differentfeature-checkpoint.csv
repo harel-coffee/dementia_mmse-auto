@@ -1,0 +1,12 @@
+PatientID,Continues,Count,Scalling,Binning,LogTransform,NominalClass,OrdinalClass,Hashing
+120,20,0,1000,0,30000,Red,S,Red
+121,13.5,0,10000,12,10000,Blue,M,Blue
+122,12,12,5000,17,5000,Green,XLL,Green
+123,10,14,40000,18,25000,Red,XLL,Red
+124,9.5,2,50000,16,12500,Blue,XL,Blue
+125,2,4,35000,20,200000,Green,M,Green
+126,5,40,15000,25,75000,Green,S,Green
+127,50,30,70000,40,67000,Blue,L,Blue
+128,10,25,10000,45,80000,Green,XLLL,Green
+129,100,0,5000,14,90000,Green,S,Green
+130,0,4,9000,50,250000,Red,M,Red

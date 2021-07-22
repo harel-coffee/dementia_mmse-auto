@@ -1,0 +1,12 @@
+PatientID,Continuous,Count,Scaling,Binning,LogTransform,ListData_1,NominalClass,OrdinalClass,Hashing,ListData
+120,20,0,1000,0,30000,"['AB', 'C']",Red,S,Red,"['A', 'C']"
+121,13.5,0,10000,12,10000,"['A', 'B', 'C']",Blue,M,Blue,"['A', 'B', 'C']"
+122,12,12,5000,17,5000,[],Green,XLL,Green,[]
+123,10,14,,18,25000,"['A', 'D', 'C']",Red,XL,White,"['A', 'D', 'C']"
+124,9.5,,50000,16,12500,"['A', 'F', 'C']",Yellow,XL,Blue,"['A', 'F', 'C']"
+125,2,4,35000,,200000,['A'],Blue,,,['A']
+126,5,40,15000,12,75000,['F'],Green,S,Green,['F']
+127,,30,,40,67000,,,,Yellow,"['A', 'B', 'C']"
+128,10,25,10000,45,80000,"['A', 'B', 'C']",Green,XLLL,Green,"['A', 'B', 'C']"
+129,100,0,5000,14,90000,"['A', 'B', 'C']",Green,S,,
+130,0,4,9000,50,250000,"['A', 'B', 'C']",Red,M,Red,"['A', 'B', 'C']"

@@ -1,0 +1,16 @@
+
+columns_nominal = ['gender', 'dementia', 'smoker', 'alcohol', 'education', 
+                   'malignantComorbidity', 'systemicComorbidity',
+                   'cardiovascularComorbidity', 'metabolicComorbidity',
+                   'infectiousComorbidity', 'neoplasticComorbidity',
+                   'respiratoryComorbidity', 'neurologicalComorbidity',
+                   'inflammatoryComorbidity', 'apoe', 'mmseInicialDiscretized', 'mmseFinalDiscretized']
+
+columns_bins = ['bmi', 'weight', 'ageAtFirstEpisode', 'ageAtLastEpisode', 'mmseInicial', 'mmseFinal']
+
+columns_list = ['disorderName_cui', 'drugName_cui']
+
+columns_for_transformation = [columns_nominal, columns_bins, columns_list]
+
+
+# epDateInicial,epDateFinal,epDateToSevereData,epDateToMildData, epDateToModerateData -- Column are not under obervation

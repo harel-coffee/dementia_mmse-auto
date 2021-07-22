@@ -1,0 +1,26 @@
+# Filled missing MMSE value based on patint_id median
+# Doubt
+1. Fill missing values before considering class
+2. Fill missing values after considering class
+3. Fill missing value after considering class imbalance and random forest iterative imputer
+4. Find patient wth intermidate change in status of patients
+5. SVC works better with extratreeregressor, SVC suffers from imbalance of classes
+6. Random-forest with mean value working better and without imbalance 
+7. Feature Selctection with RFECV and then RandomForest
+8. Removing missing value column after dealing with class imbalance
+9. remove duplicate medication and comorbidities in episodes
+10. Assign all categorical data to zero vector value  
+11. Replicate episode data according to years (1 year, 2 years, 3 years) or multiple it with duration
+12. drop duplicate rows from for each patient contaning one or more dupliacte episodes
+13. Naive Bayes - Dimension are very high
+14. Normalising data
+15. Train - Without Missing values, With Missing Values, After calculating Missing Values
+16. Fill missing values before class imbalance ??
+17. 
+
+
+Plots to be considered:
+1. How the rank of a feature is varying according to the particular class (plot)
+2. Positive correlated feature plots
+3. Correlation bitween different feature
+4. 
