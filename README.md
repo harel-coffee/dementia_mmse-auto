@@ -1,4 +1,4 @@
-# dementia_mmse
+# Dementia_MMSE
 
 ## Dementia Patient MMSE calibration
 
